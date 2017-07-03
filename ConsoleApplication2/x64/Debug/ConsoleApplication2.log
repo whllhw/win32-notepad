@@ -1,0 +1,20 @@
+﻿  main.cpp
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(28): error C2001: 常量中有换行符
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(29): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C3688: 文本后缀“瀛﹀彿”无效；未找到文文本运算符或文本运算符模板“operator """"瀛﹀彿”
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2146: 语法错误: 缺少“;”(在标识符“濮撳悕”的前面)
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2065: “濮撳悕”: 未声明的标识符
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2146: 语法错误: 缺少“;”(在标识符“鎬у埆”的前面)
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2065: “鎬у埆”: 未声明的标识符
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2146: 语法错误: 缺少“;”(在标识符“骞撮緞”的前面)
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2065: “骞撮緞”: 未声明的标识符
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2146: 语法错误: 缺少“;”(在标识符“鎴愮哗1”的前面)
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2065: “鎴愮哗1”: 未声明的标识符
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2146: 语法错误: 缺少“;”(在标识符“鎴愮哗2”的前面)
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2001: 常量中有换行符
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2065: “鎴愮哗2”: 未声明的标识符
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2146: 语法错误: 缺少“;”(在标识符“鎴愮哗3”的前面)
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2065: “鎴愮哗3”: 未声明的标识符
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(33): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+d:\用户目录\我的文档\visual studio 2017\projects\consoleapplication2\consoleapplication2\main.cpp(34): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
